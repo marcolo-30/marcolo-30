@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marco Loaiza 
+- 👋 Hi, I’m Marco Loaiza.
 - 👀 I’m interested in Internet of Things, Machine Learning, Data Analytics, Embedded Systems.
-- 🌱 I’m currently pursuing my PhD in ICT in the University of Calabria 
+- 🌱 I’m currently pursuing my PhD in ICT in the University of Calabria.
 - 📫 How to reach me: maloaiza30@gmail.com 
 
 <!---
